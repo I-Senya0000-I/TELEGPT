@@ -1,0 +1,11 @@
+{
+    "token": "",
+    "trustedUsers": [
+        ""
+        
+    ],
+    "prompt": "answer in russian",
+    "model": "gpt-4",
+    "provider": "DDG"
+
+}
